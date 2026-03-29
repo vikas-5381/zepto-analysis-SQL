@@ -17,3 +17,7 @@ This SQL project analyzes Zepto product data to uncover insights on pricing, dis
 - <a href="#author--contact">Author & Contact</a>
 
 ---
+
+<h2><a class="anchor" id="overview"></a>Overview</h2>
+
+This Zepto SQL project focuses on analyzing product data to gain insights into pricing, discounts, stock status, and category-wise performance. It involves data cleaning, exploration, and advanced queries to identify top products, revenue trends, and best-value items. Overall, it helps in making data-driven decisions for inventory and business growth.
