@@ -25,3 +25,14 @@ This Zepto SQL project focuses on analyzing product data to gain insights into p
 ---
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+
+- dentify which products and categories generate the highest revenue
+- Detect out-of-stock items that may lead to lost sales opportunities
+- Analyze the impact of discounts on product sales and profitability
+- Find high-priced products with low discounts affecting customer demand
+- Optimize inventory by identifying overstocked and understocked products
+- Determine best-value products based on price per unit/weight
+- Improve pricing and discount strategies to stay competitive
+- Support data-driven decision-making for business growth and efficiency
+
+---  
