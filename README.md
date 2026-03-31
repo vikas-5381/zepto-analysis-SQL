@@ -39,4 +39,15 @@ This Zepto SQL project focuses on analyzing product data to gain insights into p
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-
+- Dataset Size:
+Contains multiple product (SKU) records across different categories
+Includes fields like MRP, discount, quantity, stock status, and weight
+- Time Period:
+Represents a static snapshot of product data
+No time-series or historical data included
+- Data Source:
+Derived from Zepto (online grocery delivery platform) dataset
+Structured dataset used for SQL-based analysis and learning
+- Purpose of Dataset:
+To analyze pricing, discounts, and inventory patterns
+To support data-driven decisions for revenue and stock optimization
