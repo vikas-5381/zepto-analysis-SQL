@@ -55,3 +55,8 @@ To support data-driven decisions for revenue and stock optimization
 ---  
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- SQL (Structured Query Language).
+- Database System (PostgreSQL / MySQL).
+- Data Processing Technique.
+- Basic Analytical Functions.
