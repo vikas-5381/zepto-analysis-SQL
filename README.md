@@ -51,3 +51,7 @@ Structured dataset used for SQL-based analysis and learning
 - Purpose of Dataset:
 To analyze pricing, discounts, and inventory patterns
 To support data-driven decisions for revenue and stock optimization
+
+---  
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
