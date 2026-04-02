@@ -60,3 +60,8 @@ To support data-driven decisions for revenue and stock optimization
 - Database System (PostgreSQL / MySQL).
 - Data Processing Technique.
 - Basic Analytical Functions.
+
+---  
+
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
