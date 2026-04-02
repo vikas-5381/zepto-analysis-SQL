@@ -65,3 +65,12 @@ To support data-driven decisions for revenue and stock optimization
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
+vrinda-store-analysis/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── Weather Analysis.pdf
+│
+├── dashboard/                  # POWER BI File
+│   └── weather_analysis_dashboard.pbi
