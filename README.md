@@ -78,3 +78,12 @@ zepto-analysis/
 ---  
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
+- Checked and handled missing/null values in important columns
+- Removed invalid records (e.g., products with MRP = 0)
+- Converted price values from paise to rupees
+- Verified and corrected data types (numeric, boolean, integer)
+- Identified duplicate product entries (same name with multiple SKUs)
+- Structured data properly for smooth SQL analysis
+
+--- 
