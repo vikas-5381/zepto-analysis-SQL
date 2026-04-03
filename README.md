@@ -65,12 +65,16 @@ To support data-driven decisions for revenue and stock optimization
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-vrinda-store-analysis/
+zepto-analysis/
 │
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── Weather Analysis.pdf
+├── Zepto Analysis.pdf
 │
-├── dashboard/                  # POWER BI File
-│   └── weather_analysis_dashboard.pbi
+├── dashboard/                  # SQL File
+│   └── zepto_analysis.pbi
+
+---  
+
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
