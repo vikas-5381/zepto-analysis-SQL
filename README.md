@@ -89,3 +89,21 @@ zepto-analysis/
 --- 
 
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+
+- Which products have the highest discounts?
+Top products identified with maximum discount percentages
+Helps attract price-sensitive customers
+- Which high-value products are out of stock?
+Found expensive items (high MRP) that are unavailable
+Indicates potential revenue loss
+- Which categories generate the most revenue?
+Certain categories contribute more to total sales
+Useful for focusing marketing and inventory efforts
+- How do discounts impact product pricing?
+Products with higher discounts show better value perception
+Helps in optimizing discount strategies
+- Which products offer the best value (price per gram)?
+Identified cost-efficient products based on weight and price
+Helps customers and business compare product value
+
+--- 
