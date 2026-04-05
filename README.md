@@ -107,3 +107,6 @@ Identified cost-efficient products based on weight and price
 Helps customers and business compare product value
 
 --- 
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
