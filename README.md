@@ -110,3 +110,12 @@ Helps customers and business compare product value
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
+- Power BI Dashboard Shows:
+- Total Number of Movies and TV Shows
+- Content Distribution by Gender
+- Release Year Trends
+- Country-wise Content Production
+- Content Ratings Distribution
+- Type of Content Comparison
+
+  --- 
