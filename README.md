@@ -121,3 +121,21 @@ Helps customers and business compare product value
   --- 
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+
+1. Clone the repository:
+```bash
+git clone https:[//github.com/yourusername/](https://github.com/vikas-5381/prime_vidieo_analysis)
+```
+3. Load the CSVs and ingest into database:
+```bash
+prime_vidieo_analysis.xlsx  
+```
+4. Create sales summary table:
+```bash
+power bi scripts/get_vidieo_summary.xlsx
+```
+5. Open Power Bi Dashboard:
+ ```bash
+   - `Weathher Analysis Dashboard.pbix`
+```
+---
