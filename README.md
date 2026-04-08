@@ -139,3 +139,6 @@ power bi scripts/get_vidieo_summary.xlsx
    - `Weathher Analysis Dashboard.pbix`
 ```
 ---
+
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+
