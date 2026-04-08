@@ -142,3 +142,12 @@ power bi scripts/get_vidieo_summary.xlsx
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
+- Focus on restocking high-demand and high-MRP out-of-stock products to avoid revenue loss
+- Optimize discount strategies by increasing offers on slow-moving products
+- Maintain competitive pricing for high-performing products and categories
+- Promote best-value products (low price per gram) to attract more customers
+- Improve inventory planning by balancing overstocked and understocked items
+- Invest more in high-revenue categories to maximize business growth
+- Regularly monitor product performance using SQL dashboards and reports
+
+---
