@@ -151,3 +151,10 @@ power bi scripts/get_vidieo_summary.xlsx
 - Regularly monitor product performance using SQL dashboards and reports
 
 ---
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Vikas Siddheshware**  
+Data Analyst      
+📧 Email: vikassiddheshware2001@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/vikas-siddheshware) 
